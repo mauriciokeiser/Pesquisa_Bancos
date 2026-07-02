@@ -1,0 +1,8 @@
+[BCO DO BRASIL S.A.] mapeia para => [BCO KDB BRASIL S.A.] (Confiança: 91%)
+[BCO. J.SAFRA S.A.] mapeia para => [BCO SAFRA S.A.] (Confiança: 93%)
+[MASTER BI S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL] mapeia para => [MASTER S/A CCTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL] (Confiança: 91%)
+[BMS SCD S.A.] mapeia para => [BMP SCD S.A.] (Confiança: 91%)
+[VORTX DTVM LTDA.] mapeia para => [VERT DTVM LTDA.] (Confiança: 90%)
+[BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL] mapeia para => [BANCO MASTER - EM LIQUIDAÇÃO EXTRAJUDICIAL] (Confiança: 90%)
+[PAGME IP LTDA] mapeia para => [PAGSMILE IP LTDA.] (Confiança: 90%)
+[MW IP LTDA.] mapeia para => [WX IP LTDA.] (Confiança: 90%)
